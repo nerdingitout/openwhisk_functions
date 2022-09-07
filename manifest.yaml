@@ -1,4 +1,3 @@
-[sourcecode language=”javascript”]
 packages:
 hello_package:
 actions:
@@ -18,4 +17,3 @@ rules:
 greeting_rule:
 action: say_hello
 trigger: greeting_trigger
-[/sourcecode]
