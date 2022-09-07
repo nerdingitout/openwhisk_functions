@@ -1,4 +1,3 @@
-[sourcecode language=”javascript”]
 /**
 *
 * main() will be run when you invoke this action
@@ -18,4 +17,3 @@ return {
 "Code": 200
 }
 }
-[/sourcecode]
