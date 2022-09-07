@@ -1,4 +1,3 @@
-[sourcecode language=”javascript”]
 /**
 *
 * main() will be run when you invoke this action
